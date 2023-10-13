@@ -1,0 +1,21 @@
+{
+  "TOKEN": "",
+  "PREFIX": "rap!",
+  "EMBED_COLOR": "#FF0000",
+  "OWNER_ID": "",
+  "GUILD_LOGS": "",
+  "LEAVE_TIMEOUT": "50000",
+  "DISABLE_PREMIUM": "true",
+  "DEFAULT_PLATFORM": "ytmsearch",
+  "SPOTIFY_ID": "",
+  "SPOTIFY_SECRET": "",
+  "NODE_NAME": "rapiariep",
+  "NODE_HOST": "54.38.198.23",
+  "NODE_PORT": "88",
+  "NODE_PASSWORD": "stonemusicgay",
+  "NODE_SECURE": "false",
+  "MONGO_URI": "",
+  "SUPPORT_URL": "",
+  "INVITE_URL": "",
+  "IMAGE_URL": ""
+}
